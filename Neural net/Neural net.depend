@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1659540943 source:c:\users\elian\onedrive\bureau\cpp\neural net\main.cpp
+	<vector>
+	<iostream>
+	<cstdlib>
+	<cassert>
+	<cmath>
+	<fstream>
+	<sstream>
+
